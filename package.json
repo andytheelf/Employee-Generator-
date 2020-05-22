@@ -1,0 +1,31 @@
+{
+  "name": "employee",
+  "version": "1.0.0",
+  "description": "Generate a team",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "andytheelf"
+  },
+  "keywords": [
+    "Generate",
+    "a",
+    "team",
+    "tracker!"
+  ],
+  "author": "Andrea Ballew",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
