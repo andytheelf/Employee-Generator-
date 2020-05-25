@@ -8,4 +8,4 @@
 
 ### To run the generator clone the git hub portfolio to test it out! 
 
-## [![Watch the video]([https://youtu.be/ETUJBdl6wCg])
+## [![Watch the video](https://youtu.be/ETUJBdl6wCg)
