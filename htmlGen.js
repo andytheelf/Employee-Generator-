@@ -71,7 +71,7 @@ function generateHTML(team) {
 <body>
     <div class="jumbotron jumbotron-fluid">
         <div class="container">
-            <h1 class="display-4">My Team</h1>
+            <h1 class="display-4 text-center">My Team</h1>
         </div>
     </div>
     <div class="container">
